@@ -549,7 +549,7 @@
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="nic" class="form-label">NIC: </label>
+                                    <label for="nic" class="form-label">NID: </label>
                                 </td>
                             </tr>
                             <tr>
