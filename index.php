@@ -23,7 +23,6 @@
             <tr>
                 <td width="80%">
                     <font class="edoc-logo">GreenConsultant </font>
-                    <!-- <font class="-logo-sub">| WeB PROGRAMMING PROJECT</font> -->
                 </td>
                 <td width="10%">
                    <a href="login.php"  class="non-style-link"><p class="nav-item">LOGIN</p></a>
@@ -35,7 +34,7 @@
             
             <tr>
                 <td  colspan="3">
-                    <p class="heading-text">Avoid Hassles & Delays.</p>
+                    <p class="heading-text">Your Health Our Responsibilities</p>
 
                 </td>
             </tr>
